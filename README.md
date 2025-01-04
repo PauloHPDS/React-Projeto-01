@@ -8,7 +8,7 @@ Veja o projeto funcionando aqui: [React Projeto 01](https://react-projeto-01-1po
 
 ## 📸 Demonstração
 
-![Preview do Projeto](https://via.placeholder.com/800x450?text=Preview+do+Projeto)  
+![Preview do Projeto](https://github.com/PauloHPDS/React-Projeto-01/blob/main/tela-01.png?raw=true)  
 
 
 ## 🛠️ Tecnologias Utilizadas
